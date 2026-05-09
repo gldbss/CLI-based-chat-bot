@@ -204,4 +204,4 @@ This project currently has no public license.
 
 # Author
 
-Built using Python + OpenRouter API.
+Built by **G.L.D.Bhavani Sankar**.
