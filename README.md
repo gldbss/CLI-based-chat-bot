@@ -198,7 +198,7 @@ Hi! How can I help you today?
 
 # License
 
-MIT License
+This project currently has no public license.
 
 ---
 
